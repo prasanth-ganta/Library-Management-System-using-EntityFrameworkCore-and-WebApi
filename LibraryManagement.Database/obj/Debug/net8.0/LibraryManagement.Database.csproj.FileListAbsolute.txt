@@ -1,0 +1,14 @@
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\bin\Debug\net8.0\LibraryManagement.Database.deps.json
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\bin\Debug\net8.0\LibraryManagement.Database.dll
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\bin\Debug\net8.0\LibraryManagement.Database.pdb
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.csproj.AssemblyReference.cache
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.AssemblyInfoInputs.cache
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.AssemblyInfo.cs
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.csproj.CoreCompileInputs.cache
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.dll
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\refint\LibraryManagement.Database.dll
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.pdb
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\ref\LibraryManagement.Database.dll
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\bin\Debug\net8.0\LibraryManagement.Database.runtimeconfig.json
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.genruntimeconfig.cache
