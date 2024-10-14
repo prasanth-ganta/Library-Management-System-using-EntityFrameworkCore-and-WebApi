@@ -298,3 +298,4 @@ C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagemtn.WebApi\bin\Debug\net8.0
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagemtn.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagemtn.WebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagemtn.WebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagemtn.WebApi\obj\Debug\net8.0\LibraryManagemtn.WebApi.sourcelink.json

@@ -13,3 +13,4 @@ C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Services\obj\Debug\net
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.sourcelink.json

@@ -1,12 +1,10 @@
 using LibraryManagement.Database.Interfaces;
 using LibraryManagement.Database.Entities;
 using LibraryManagement.Database.DataContext;
-using Microsoft.EntityFrameworkCore;
 using System.Data.SqlClient;
 using Microsoft.Extensions.Logging;
-using System.Linq;
 
-namespace LibraryManagementSystem.Database.Implementations 
+namespace LibraryManagement.Database.Implementations 
 {
     public class BookRepository : IBookRepository
     {

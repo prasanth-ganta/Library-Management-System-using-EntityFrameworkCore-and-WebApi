@@ -12,3 +12,4 @@ C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\ref\LibraryManagement.Database.dll
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\bin\Debug\net8.0\LibraryManagement.Database.runtimeconfig.json
 C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.genruntimeconfig.cache
+C:\Dotnet_Prac\LibraryManagemetntSystem\LibraryManagement.Database\obj\Debug\net8.0\LibraryManagement.Database.sourcelink.json

@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-
 namespace LibraryManagement.Database.Entities;
 
 public class Book

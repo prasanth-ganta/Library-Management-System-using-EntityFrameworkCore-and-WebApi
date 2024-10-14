@@ -60,7 +60,7 @@ namespace LibraryManagementSystem.Services
             catch (Exception ex)
             {
                 _logger.LogError($"Unexpected error occurred while getting requested page books: {ex.Message}");
-                throw new ApplicationException("An error occurred while fetching books.", ex);
+                throw;
             }
         }
 
@@ -104,7 +104,7 @@ namespace LibraryManagementSystem.Services
             }
             catch (KeyNotFoundException)
             {
-                throw new InvalidOperationException("Book not found.");
+                throw new KeyNotFoundException("Book not found.");
             }
             catch (Exception ex)
             {
@@ -137,7 +137,7 @@ namespace LibraryManagementSystem.Services
             }
             catch (KeyNotFoundException)
             {
-                throw new InvalidOperationException("Book not found.");
+                throw new KeyNotFoundException("Book not found.");
             }
             catch (Exception ex)
             {
@@ -156,7 +156,7 @@ namespace LibraryManagementSystem.Services
             }
             catch (KeyNotFoundException)
             {
-                throw new InvalidOperationException("Book not found.");
+                throw new KeyNotFoundException("Book not found.");
             }
             catch (Exception ex)
             {
